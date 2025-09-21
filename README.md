@@ -16,3 +16,36 @@ The Trisolidex framework simulates resonance chains, coherence indexing, and rot
 git clone https://github.com/YOUR-USERNAME/trisolidex.git
 cd trisolidex
 pip install -r requirements.txt
+# Trisolidex: Resonance Matrix Simulation Framework
+
+**Author:** Dwight R. Vaughn  
+**Partner:** VyTek | VYRAL TECHNOLOGIES  
+**License:** Proprietary — All rights reserved
+
+---
+
+## Overview
+
+Trisolidex is a **4D resonance matrix simulation framework** designed to process multi-modal sensor data (light, electromagnetic, acceleration) into a **coherent space-time model**.  
+It computes local coherence (R), identifies stable cells, and encodes them into reproducible signatures for pattern analysis, simulation, or prediction.  
+
+This work is **rooted in 30+ years of original research**, published in *The Book of Ike, Volume 2*. All components are **fully reproducible and timestamped**.
+
+---
+
+## Features
+
+1. **Normalization:** Convert sensor data into Hz/time bins.  
+2. **Grid Mapping:** Map data into 4D trisolidex coordinates (t, x, y, z).  
+3. **Coherence Calculation:** Compute local order parameter R for neighborhoods.  
+4. **Stable Cell Selection:** Identify regions with high coherence.  
+5. **Signature Encoding:** Hash stable cells for reproducibility.  
+6. **Rotating Universe Test:** Optional simulation of universe rotation effects.
+
+---
+
+## Getting Started
+
+### Requirements
+```bash
+pip install -r requirements.txt
