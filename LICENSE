@@ -1,7 +1,38 @@
-Copyright (c) GitHub, Inc.
+Trisolidex Resonance Matrix License
 
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+Copyright (c) 2024 Dwight R. Vaughn and VyTek VYRAL TECHNOLOGIES. All rights reserved.
 
-The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+1. Ownership
 
-THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+The Trisolidex Resonance Matrix system, including all code, documentation, research notes, and associated intellectual property (the “Software”), is the original work of Dwight R. Vaughn, in partnership with VyTek VYRAL TECHNOLOGIES. All rights are reserved unless expressly granted below.
+
+2. Permitted Uses
+
+Research & Personal Use: Individuals and academic institutions may view, study, and experiment with non-commercial portions of the Software for educational and research purposes only.
+
+Demonstrations: Public sharing of simulation results, figures, or excerpts is permitted, provided clear attribution is given to Dwight R. Vaughn and VyTek VYRAL TECHNOLOGIES.
+
+
+3. Restricted Uses
+
+You may NOT:
+
+Use the Software, in whole or in part, for commercial purposes without prior written permission.
+
+Sell, sublicense, or distribute the Software or any derivative works.
+
+Claim authorship, originality, or ownership of the Software or underlying methods.
+
+
+4. Commercial Licensing
+
+Commercial use, including integration into products, services, or research with direct financial benefit, requires a separate licensing agreement with VyTek VYRAL TECHNOLOGIES. For inquiries, contact:
+📧 licensing@vytek.com
+
+5. Disclaimer
+
+The Software is provided “AS IS” without warranty of any kind, express or implied, including but not limited to accuracy, reliability, or fitness for a particular purpose.
+
+6. Governing Law
+
+This License shall be governed by the laws of the United States.
